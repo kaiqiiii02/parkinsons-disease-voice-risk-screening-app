@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+soundfile
+librosa
+scipy
+joblib
+xgboost
+scikit-learn
+praat-parselmouth

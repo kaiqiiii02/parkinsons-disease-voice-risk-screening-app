@@ -1,0 +1,25 @@
+# User data (privacy)
+recordings/
+screening_log.csv
+
+# Backups
+app_backup.py
+*_backup.py
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+
+# Environment
+venv/
+env/
+.env
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
