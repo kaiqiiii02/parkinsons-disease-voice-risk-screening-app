@@ -4,7 +4,7 @@ A web-based screening tool that analyzes voice recordings to detect patterns ass
 
 ## Live Demo
 
-[Try the app on Streamlit Community Cloud](#) <!-- Update this link after deployment -->
+https://group20-pd-voice-screening.streamlit.app <!-- Update this link after deployment -->
 
 ## Features
 
