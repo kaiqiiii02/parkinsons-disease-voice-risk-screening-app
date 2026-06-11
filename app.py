@@ -1516,7 +1516,7 @@ elif current_page == "Prediction Result":
 
         st.info(
             "**How is the risk score calculated?**  \n"
-            "The XGBoost model looks at all 22 voice features **together**, not individually. "
+            "The model looks at all 22 voice features **together**, not individually. "
             "A single high value (such as high shimmer) does not automatically mean high risk. "
             "The model has learned specific Parkinson's voice patterns from training data and "
             "compares your overall voice profile against those patterns. Your risk score reflects "
@@ -1524,7 +1524,7 @@ elif current_page == "Prediction Result":
         )
 
         st.caption(
-            "The full XGBoost model details and feature extraction pipeline are explained in the Model Info page."
+            "The full model details and feature extraction pipeline are explained in the Model Info page."
         )
 
         if st.button("Start New Screening", use_container_width=True):
@@ -1710,8 +1710,8 @@ elif current_page == "Thank You":
         <div class="credit-card">
             <div class="credit-title">Developed by:</div>
             <div class="credit-text">
-                <b>Group 20</b><br>
-                WQD7001 Principle of Data Science<br>
+                <b>Student</b><br>
+                Master of Data Science<br>
                 Universiti Malaya
             </div>
         </div>
